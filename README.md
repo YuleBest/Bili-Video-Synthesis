@@ -40,7 +40,7 @@ OUTPUT_DIR="$SCTIPT_DIR/output"  # 合成视频输出目录
 ```
 
 ### 使用方法
-1. 前往 [Release](https://github.com/YuleBest/Bili-Video-Synthesis/release/latest) 下载最新发行版
+1. 前往 [Release](https://github.com/YuleBest/Bili-Video-Synthesis/releases/latest) 下载最新发行版
 
 2. 赋予执行权限
 ```bash
